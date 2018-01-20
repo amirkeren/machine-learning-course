@@ -1,0 +1,4 @@
+numpy===1.12.1
+requests===2.18.4
+tqdm===4.19.5
+python-mnis===0.3
